@@ -1,1 +1,1 @@
-# Python- A repositoty for all my personal Python Projects.
+- A repositoty for all my personal Python Projects.
